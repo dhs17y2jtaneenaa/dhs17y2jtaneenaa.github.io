@@ -1,8 +1,12 @@
 h1{
 color: brown;	
 }
-h2{color:red
-  
+h2{
+  color:red
+}
+body {
+  margin:0;
+} 
 ul {
     list-style-type: none;
     margin: 0;
