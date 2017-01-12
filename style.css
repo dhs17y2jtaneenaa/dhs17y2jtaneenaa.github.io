@@ -43,3 +43,6 @@ li a:hover:not(.active) {
 .img-circle {
     border-radius: 50%;
 }
+.image:hover img {
+    -webkit-transform:scale(1.25);
+}
