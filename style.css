@@ -3,13 +3,13 @@ body {
     background-size:100%,100%;
 }
 h1 {
-    font-family: Helvetica
+    font-family: Proxima Nova, Neue Helvetica;
     }
 h2 {
-    font-family: Calibri Light;
+    font-family: Proxima Nova;
     }
 p {
-    font-family: Calibri Light;
+    font-family: Proxima Nova;
 }
 ul {
     list-style-type: none;
