@@ -3,11 +3,14 @@ body {
     background-size:100%,100%;
 }
 h1 {
-    font-family: Calibri;
+    font-family: bold Helvetica, Sans-Serif;
     }
 h2 {
     font-family: Calibri Light;
     }
+p {
+    font-family: Calibri Light;
+}
 ul {
     list-style-type: none;
     margin: 0;
