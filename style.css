@@ -62,9 +62,3 @@ h2 span {
 h2 span.spacer {
    padding:0 5px;
 }
-h2 { 
-   position: absolute; 
-   top: 200px; 
-   left: 0; 
-   width: 100%; 
-}
